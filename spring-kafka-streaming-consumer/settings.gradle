@@ -1,0 +1,3 @@
+rootProject.name = 'spring-kafka-streaming'
+include 'kafka-producer-wikimedia'
+
